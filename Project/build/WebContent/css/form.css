@@ -1,0 +1,17 @@
+.myform {
+    border: 1px solid grey;
+    width: 400px;
+	text-align: center;
+	margin: 0 auto;
+}
+input {
+	width: 80%;
+	border: 1px solid grey;
+}
+button{
+	border-radius: 15px;
+	color: grey;
+}
+.mg-10{
+	margin: 10px 0;
+}
